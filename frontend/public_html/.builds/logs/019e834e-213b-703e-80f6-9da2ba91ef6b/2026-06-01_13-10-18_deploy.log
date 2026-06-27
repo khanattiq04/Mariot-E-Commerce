@@ -1,0 +1,175 @@
+npm warn deprecated @types/jspdf@2.0.0: This is a stub types definition. jspdf provides its own type definitions, so you do not need this installed.
+npm warn deprecated @types/html2canvas@1.0.0: This is a stub types definition. html2canvas provides its own type definitions, so you do not need this installed.
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated lodash.get@4.4.2: This package is deprecated. Use the optional chaining (?.) operator instead.
+npm warn deprecated rimraf@2.7.1: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated lodash.isequal@4.5.0: This package is deprecated. Use require('node:util').isDeepStrictEqual instead.
+npm warn deprecated glob@7.2.3: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+npm warn deprecated glob@7.2.3: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+npm warn deprecated glob@7.2.3: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+npm warn deprecated fstream@1.0.12: This package is no longer supported.
+
+added 476 packages, and audited 477 packages in 12s
+
+141 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+> mariot-frontend@0.1.0 build
+> next build
+
+   ▲ Next.js 15.5.18
+   - Experiments (use with caution):
+     · optimizePackageImports
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 32.0s
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/86) ...
+   Generating static pages (21/86) 
+   Generating static pages (42/86) 
+   Generating static pages (64/86) 
+ ✓ Generating static pages (86/86)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                   Size  First Load JS  Revalidate  Expire
+┌ ○ /_not-found                               1 kB         104 kB
+├ ● /[locale]                              18.3 kB         232 kB
+├   ├ /en
+├   └ /ar
+├ ● /[locale]/about                        5.42 kB         157 kB
+├   ├ /en/about
+├   └ /ar/about
+├ ● /[locale]/admin                        12.4 kB         189 kB
+├   ├ /en/admin
+├   └ /ar/admin
+├ ● /[locale]/admin/analytics              5.86 kB         179 kB
+├   ├ /en/admin/analytics
+├   └ /ar/admin/analytics
+├ ● /[locale]/admin/brands                 9.31 kB         186 kB
+├   ├ /en/admin/brands
+├   └ /ar/admin/brands
+├ ● /[locale]/admin/categories             8.19 kB         188 kB
+├   ├ /en/admin/categories
+├   └ /ar/admin/categories
+├ ● /[locale]/admin/cms                    20.4 kB         188 kB
+├   ├ /en/admin/cms
+├   └ /ar/admin/cms
+├ ● /[locale]/admin/cms/trending-products  3.48 kB         135 kB
+├   ├ /en/admin/cms/trending-products
+├   └ /ar/admin/cms/trending-products
+├ ● /[locale]/admin/coupons                7.38 kB         184 kB
+├   ├ /en/admin/coupons
+├   └ /ar/admin/coupons
+├ ● /[locale]/admin/invoices               3.69 kB         139 kB
+├   ├ /en/admin/invoices
+├   └ /ar/admin/invoices
+├ ● /[locale]/admin/orders                 9.47 kB         186 kB
+├   ├ /en/admin/orders
+├   └ /ar/admin/orders
+├ ● /[locale]/admin/products                 336 B         466 kB
+├   ├ /en/admin/products
+├   └ /ar/admin/products
+├ ● /[locale]/admin/products/edit            337 B         466 kB
+├   ├ /en/admin/products/edit
+├   └ /ar/admin/products/edit
+├ ● /[locale]/admin/quotations             20.4 kB         197 kB
+├   ├ /en/admin/quotations
+├   └ /ar/admin/quotations
+├ ● /[locale]/admin/reviews                6.42 kB         183 kB
+├   ├ /en/admin/reviews
+├   └ /ar/admin/reviews
+├ ● /[locale]/admin/seo                     4.2 kB         136 kB
+├   ├ /en/admin/seo
+├   └ /ar/admin/seo
+├ ● /[locale]/admin/settings               2.52 kB         134 kB
+├   ├ /en/admin/settings
+├   └ /ar/admin/settings
+├ ● /[locale]/admin/users                  9.87 kB         187 kB
+├   ├ /en/admin/users
+├   └ /ar/admin/users
+├ ● /[locale]/affiliate-program            5.67 kB         157 kB
+├   ├ /en/affiliate-program
+├   └ /ar/affiliate-program
+├ ● /[locale]/all-categories               10.5 kB         162 kB
+├   ├ /en/all-categories
+├   └ /ar/all-categories
+├ ƒ /[locale]/category/[slug]              7.62 kB         159 kB
+├ ● /[locale]/checkout                     20.3 kB         218 kB
+├   ├ /en/checkout
+├   └ /ar/checkout
+├ ● /[locale]/checkoutsuccess              4.11 kB         197 kB
+├   ├ /en/checkoutsuccess
+├   └ /ar/checkoutsuccess
+├ ● /[locale]/contact                      8.29 kB         160 kB
+├   ├ /en/contact
+├   └ /ar/contact
+├ ● /[locale]/forgot-password              3.69 kB         155 kB
+├   ├ /en/forgot-password
+├   └ /ar/forgot-password
+├ ● /[locale]/payment-information          4.96 kB         157 kB
+├   ├ /en/payment-information
+├   └ /ar/payment-information
+├ ● /[locale]/price-match-policy           4.77 kB         157 kB
+├   ├ /en/price-match-policy
+├   └ /ar/price-match-policy
+├ ● /[locale]/privacy-policy               4.88 kB         157 kB
+├   ├ /en/privacy-policy
+├   └ /ar/privacy-policy
+├ ƒ /[locale]/product/[...slug]            55.6 kB         277 kB
+├ ● /[locale]/profile                      19.2 kB         220 kB
+├   ├ /en/profile
+├   └ /ar/profile
+├ ● /[locale]/reset-password               4.23 kB         156 kB
+├   ├ /en/reset-password
+├   └ /ar/reset-password
+├ ● /[locale]/return-policy                4.91 kB         157 kB
+├   ├ /en/return-policy
+├   └ /ar/return-policy
+├ ● /[locale]/sellerDashboard                21 kB         147 kB
+├   ├ /en/sellerDashboard
+├   └ /ar/sellerDashboard
+├ ● /[locale]/shipping-details             4.93 kB         157 kB
+├   ├ /en/shipping-details
+├   └ /ar/shipping-details
+├ ● /[locale]/shop                           157 B         184 kB
+├   ├ /en/shop
+├   └ /ar/shop
+├ ● /[locale]/shop-by-brands                6.9 kB         159 kB
+├   ├ /en/shop-by-brands
+├   └ /ar/shop-by-brands
+├ ● /[locale]/shopnow                        158 B         184 kB
+├   ├ /en/shopnow
+├   └ /ar/shopnow
+├ ● /[locale]/signin                         152 B         160 kB
+├   ├ /en/signin
+├   └ /ar/signin
+├ ● /[locale]/signup                         152 B         160 kB
+├   ├ /en/signup
+├   └ /ar/signup
+├ ● /[locale]/terms-and-conditions         4.92 kB         157 kB
+├   ├ /en/terms-and-conditions
+├   └ /ar/terms-and-conditions
+├ ● /[locale]/today-offers                 7.54 kB         180 kB
+├   ├ /en/today-offers
+├   └ /ar/today-offers
+├ ƒ /api/chat                                171 B         104 kB
+├ ƒ /api/proxy-image                         171 B         104 kB
+├ ○ /llms.txt                                171 B         104 kB
+├ ○ /robots.txt                              171 B         104 kB
+└ ○ /sitemap.xml                             171 B         104 kB          1h      1y
++ First Load JS shared by all               103 kB
+  ├ chunks/1255-eae4096fb21f1304.js          46 kB
+  ├ chunks/4bd1b696-100b9d70ed4e49c1.js    54.2 kB
+  └ other shared chunks (total)             3.1 kB
+
+
+ƒ Middleware                               45.8 kB
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+ƒ  (Dynamic)  server-rendered on demand
+

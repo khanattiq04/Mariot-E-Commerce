@@ -1,0 +1,189 @@
+ERROR 1050 (42S01) at line 32: Table 'addresses' already exists
+ERROR 1062 (23000) at line 55: Duplicate entry '4' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 70: Table 'brands' already exists
+ERROR 1062 (23000) at line 91: Duplicate entry '1' for key 'PRIMARY'
+ERROR 1062 (23000) at line 183: Duplicate entry '98' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 198: Table 'carts' already exists
+ERROR 1062 (23000) at line 209: Duplicate entry '1' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 221: Table 'cart_items' already exists
+ERROR 1062 (23000) at line 235: Duplicate entry '111' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 252: Table 'categories' already exists
+ERROR 1062 (23000) at line 274: Duplicate entry '1' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 419: Table 'category_brands' already exists
+ERROR 1062 (23000) at line 428: Duplicate entry '1-3' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 500: Table 'contact_submissions' already exists
+ERROR 1062 (23000) at line 516: Duplicate entry '1' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 525: Table 'coupons' already exists
+ERROR 1062 (23000) at line 546: Duplicate entry '1' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 555: Table 'hero_posters' already exists
+ERROR 1062 (23000) at line 577: Duplicate entry '11' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 592: Table 'hero_slides' already exists
+ERROR 1062 (23000) at line 615: Duplicate entry '1' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 626: Table 'homepage_cms' already exists
+ERROR 1062 (23000) at line 638: Duplicate entry '1' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 648: Table 'orders' already exists
+ERROR 1062 (23000) at line 672: Duplicate entry '1' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 707: Table 'order_items' already exists
+ERROR 1062 (23000) at line 722: Duplicate entry '49' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 758: Table 'products' already exists
+ERROR 1062 (23000) at line 802: Duplicate entry '585' for key 'PRIMARY'
+ERROR 1062 (23000) at line 823: Duplicate entry '2643' for key 'PRIMARY'
+ERROR 1062 (23000) at line 844: Duplicate entry '2666' for key 'PRIMARY'
+ERROR 1062 (23000) at line 860: Duplicate entry '2681' for key 'PRIMARY'
+ERROR 1062 (23000) at line 873: Duplicate entry '2693' for key 'PRIMARY'
+ERROR 1062 (23000) at line 891: Duplicate entry '2711' for key 'PRIMARY'
+ERROR 1062 (23000) at line 920: Duplicate entry '2739' for key 'PRIMARY'
+ERROR 1062 (23000) at line 949: Duplicate entry '2767' for key 'PRIMARY'
+ERROR 1062 (23000) at line 972: Duplicate entry '2789' for key 'PRIMARY'
+ERROR 1062 (23000) at line 997: Duplicate entry '2813' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1034: Duplicate entry '2849' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1063: Duplicate entry '2877' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1088: Duplicate entry '2901' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1116: Duplicate entry '2928' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1137: Duplicate entry '2949' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1160: Duplicate entry '2972' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1183: Duplicate entry '2994' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1199: Duplicate entry '3009' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1218: Duplicate entry '3027' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1237: Duplicate entry '3045' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1249: Duplicate entry '3056' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1265: Duplicate entry '3071' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1287: Duplicate entry '3092' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1310: Duplicate entry '3114' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1330: Duplicate entry '3133' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1360: Duplicate entry '3162' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1398: Duplicate entry '3199' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1422: Duplicate entry '3222' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1438: Duplicate entry '3237' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1451: Duplicate entry '3249' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1478: Duplicate entry '3275' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1517: Duplicate entry '3313' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1536: Duplicate entry '3331' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1548: Duplicate entry '3342' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1562: Duplicate entry '3357' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1575: Duplicate entry '3371' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1595: Duplicate entry '3390' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1618: Duplicate entry '3412' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1640: Duplicate entry '3433' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1661: Duplicate entry '3453' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1678: Duplicate entry '3469' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1697: Duplicate entry '3487' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1718: Duplicate entry '3507' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1742: Duplicate entry '3530' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1760: Duplicate entry '3547' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1782: Duplicate entry '3568' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1810: Duplicate entry '3595' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1827: Duplicate entry '3611' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1843: Duplicate entry '3626' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1858: Duplicate entry '3640' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1880: Duplicate entry '3661' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1904: Duplicate entry '3686' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1926: Duplicate entry '3707' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1940: Duplicate entry '3720' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1954: Duplicate entry '3733' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1968: Duplicate entry '3746' for key 'PRIMARY'
+ERROR 1062 (23000) at line 1986: Duplicate entry '3763' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2008: Duplicate entry '3789' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2028: Duplicate entry '3813' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2048: Duplicate entry '3832' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2064: Duplicate entry '3847' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2079: Duplicate entry '3861' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2095: Duplicate entry '3876' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2117: Duplicate entry '3897' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2131: Duplicate entry '3910' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2149: Duplicate entry '3927' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2163: Duplicate entry '3940' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2180: Duplicate entry '3956' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2203: Duplicate entry '3978' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2219: Duplicate entry '3995' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2234: Duplicate entry '4009' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2252: Duplicate entry '4026' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2274: Duplicate entry '4047' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2292: Duplicate entry '4064' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2307: Duplicate entry '4078' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2326: Duplicate entry '4097' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2359: Duplicate entry '4149' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2389: Duplicate entry '4178' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2413: Duplicate entry '4201' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2432: Duplicate entry '4219' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2439: Duplicate entry '4225' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2462: Duplicate entry '4247' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2489: Duplicate entry '4273' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2531: Duplicate entry '4326' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2574: Duplicate entry '4369' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2611: Duplicate entry '4419' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2644: Duplicate entry '4464' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2666: Duplicate entry '4498' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2696: Duplicate entry '4539' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2747: Duplicate entry '4594' for key 'PRIMARY'
+ERROR 1062 (23000) at line 2794: Duplicate entry '4640' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 2818: Table 'product_images' already exists
+ERROR 1062 (23000) at line 2831: Duplicate entry '3266' for key 'PRIMARY'
+ERROR 1062 (23000) at line 3192: Duplicate entry '3637' for key 'PRIMARY'
+ERROR 1062 (23000) at line 3559: Duplicate entry '4005' for key 'PRIMARY'
+ERROR 1062 (23000) at line 3910: Duplicate entry '4365' for key 'PRIMARY'
+ERROR 1062 (23000) at line 4277: Duplicate entry '4731' for key 'PRIMARY'
+ERROR 1062 (23000) at line 4623: Duplicate entry '5089' for key 'PRIMARY'
+ERROR 1062 (23000) at line 4963: Duplicate entry '5502' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 5225: Table 'product_options' already exists
+ERROR 1062 (23000) at line 5237: Duplicate entry '59' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 5247: Table 'product_variants' already exists
+ERROR 1062 (23000) at line 5266: Duplicate entry '248' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 5283: Table 'product_variant_options' already exists
+ERROR 1062 (23000) at line 5294: Duplicate entry '248-59' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 5320: Table 'promotions' already exists
+ERROR 1062 (23000) at line 5352: Duplicate entry '4' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 5362: Table 'quotations' already exists
+ERROR 1062 (23000) at line 5381: Duplicate entry '1' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 5398: Table 'reviews' already exists
+ERROR 1062 (23000) at line 5412: Duplicate entry '3' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 5425: Table 'reward_points_history' already exists
+ERROR 1062 (23000) at line 5439: Duplicate entry '1' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 5479: Table 'roles' already exists
+ERROR 1062 (23000) at line 5490: Duplicate entry '1' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 5501: Table 'settings' already exists
+ERROR 1062 (23000) at line 5511: Duplicate entry 'aed_per_point' for key 'PRIMARY'
+ERROR 1050 (42S01) at line 5521: Table 'wishlists' already exists
+ERROR 1062 (23000) at line 5533: Duplicate entry '9' for key 'PRIMARY'
+ERROR 1068 (42000) at line 5546: Multiple primary key defined
+ERROR 1068 (42000) at line 5553: Multiple primary key defined
+ERROR 1068 (42000) at line 5561: Multiple primary key defined
+ERROR 1068 (42000) at line 5568: Multiple primary key defined
+ERROR 1068 (42000) at line 5577: Multiple primary key defined
+ERROR 1068 (42000) at line 5586: Multiple primary key defined
+ERROR 1068 (42000) at line 5593: Multiple primary key defined
+ERROR 1068 (42000) at line 5599: Multiple primary key defined
+ERROR 1068 (42000) at line 5606: Multiple primary key defined
+ERROR 1068 (42000) at line 5612: Multiple primary key defined
+ERROR 1068 (42000) at line 5618: Multiple primary key defined
+ERROR 1068 (42000) at line 5625: Multiple primary key defined
+ERROR 1068 (42000) at line 5634: Multiple primary key defined
+ERROR 1068 (42000) at line 5643: Multiple primary key defined
+ERROR 1061 (42000) at line 5651: Duplicate key name 'name'
+ERROR 1068 (42000) at line 5656: Multiple primary key defined
+ERROR 1068 (42000) at line 5663: Multiple primary key defined
+ERROR 1068 (42000) at line 5670: Multiple primary key defined
+ERROR 1068 (42000) at line 5679: Multiple primary key defined
+ERROR 1068 (42000) at line 5686: Multiple primary key defined
+ERROR 1068 (42000) at line 5692: Multiple primary key defined
+ERROR 1068 (42000) at line 5700: Multiple primary key defined
+ERROR 1068 (42000) at line 5708: Multiple primary key defined
+ERROR 1068 (42000) at line 5716: Multiple primary key defined
+ERROR 1068 (42000) at line 5723: Multiple primary key defined
+ERROR 1068 (42000) at line 5729: Multiple primary key defined
+ERROR 1005 (HY000) at line 5877: Can't create table `mariot_b2b`.`addresses` (errno: 150 "Foreign key constraint is incorrectly formed")
+ERROR 1005 (HY000) at line 5883: Can't create table `mariot_b2b`.`carts` (errno: 150 "Foreign key constraint is incorrectly formed")
+ERROR 1005 (HY000) at line 5889: Can't create table `mariot_b2b`.`cart_items` (errno: 121 "Duplicate key on write or update")
+ERROR 1005 (HY000) at line 5897: Can't create table `mariot_b2b`.`categories` (errno: 121 "Duplicate key on write or update")
+ERROR 1005 (HY000) at line 5904: Can't create table `mariot_b2b`.`category_brands` (errno: 121 "Duplicate key on write or update")
+ERROR 1005 (HY000) at line 5911: Can't create table `mariot_b2b`.`orders` (errno: 150 "Foreign key constraint is incorrectly formed")
+ERROR 1005 (HY000) at line 5919: Can't create table `mariot_b2b`.`order_items` (errno: 121 "Duplicate key on write or update")
+ERROR 1005 (HY000) at line 5926: Can't create table `mariot_b2b`.`products` (errno: 121 "Duplicate key on write or update")
+ERROR 1005 (HY000) at line 5935: Can't create table `mariot_b2b`.`product_images` (errno: 121 "Duplicate key on write or update")
+ERROR 1005 (HY000) at line 5941: Can't create table `mariot_b2b`.`product_options` (errno: 121 "Duplicate key on write or update")
+ERROR 1005 (HY000) at line 5947: Can't create table `mariot_b2b`.`product_variants` (errno: 121 "Duplicate key on write or update")
+ERROR 1005 (HY000) at line 5953: Can't create table `mariot_b2b`.`product_variant_options` (errno: 121 "Duplicate key on write or update")
+ERROR 1005 (HY000) at line 5960: Can't create table `mariot_b2b`.`quotations` (errno: 150 "Foreign key constraint is incorrectly formed")
+ERROR 1005 (HY000) at line 5966: Can't create table `mariot_b2b`.`reviews` (errno: 150 "Foreign key constraint is incorrectly formed")
+ERROR 1005 (HY000) at line 5973: Can't create table `mariot_b2b`.`reward_points_history` (errno: 150 "Foreign key constraint is incorrectly formed")
+ERROR 1005 (HY000) at line 5980: Can't create table `mariot_b2b`.`wishlists` (errno: 150 "Foreign key constraint is incorrectly formed")

@@ -1,0 +1,43 @@
+npm warn deprecated @types/jspdf@2.0.0: This is a stub types definition. jspdf provides its own type definitions, so you do not need this installed.
+npm warn deprecated @types/html2canvas@1.0.0: This is a stub types definition. html2canvas provides its own type definitions, so you do not need this installed.
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated lodash.get@4.4.2: This package is deprecated. Use the optional chaining (?.) operator instead.
+npm warn deprecated rimraf@2.7.1: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated lodash.isequal@4.5.0: This package is deprecated. Use require('node:util').isDeepStrictEqual instead.
+npm warn deprecated glob@7.2.3: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+npm warn deprecated glob@7.2.3: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+npm warn deprecated glob@7.2.3: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+npm warn deprecated fstream@1.0.12: This package is no longer supported.
+
+added 476 packages, and audited 477 packages in 10s
+
+141 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+> mariot-frontend@0.1.0 build
+> next build
+
+   ▲ Next.js 15.5.18
+   - Experiments (use with caution):
+     · optimizePackageImports
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 23.7s
+   Linting and checking validity of types ...
+Failed to compile.
+
+./src/components/Layout/Header/SearchDropdown.tsx:286:69
+Type error: Argument of type 'string | null | undefined' is not assignable to parameter of type 'string | undefined'.
+  Type 'null' is not assignable to type 'string | undefined'.
+
+[0m [90m 284 |[39m                                             [33m<[39m[33mdiv[39m className[33m=[39m{styles[33m.[39mtrendingThumb}[33m>[39m
+ [90m 285 |[39m                                                 [33m<[39m[33mImage[39m
+[31m[1m>[22m[39m[90m 286 |[39m                                                     src[33m=[39m{resolveUrl(p[33m.[39mprimary_image) [33m||[39m [32m'/assets/mariot-logo2.webp'[39m}
+ [90m     |[39m                                                                     [31m[1m^[22m[39m
+ [90m 287 |[39m                                                     alt[33m=[39m{stripHtml(p[33m.[39mname)}
+ [90m 288 |[39m                                                     width[33m=[39m{[35m72[39m}
+ [90m 289 |[39m                                                     height[33m=[39m{[35m72[39m}[0m
+Next.js build worker exited with code: 1 and signal: null
+[31mERROR: Failed to build the application[0m
